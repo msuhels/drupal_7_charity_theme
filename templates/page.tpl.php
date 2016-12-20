@@ -67,7 +67,7 @@
 <?php global $base_url; ?>
 
 <!-- header -->
-<!--<style>body{ background:url(<?php echo $base_url;?>/sites/all/themes/open_charity_theme/bg.png)}</style>-->
+<style>body{ background:url(<?php echo $base_url;?>/sites/all/themes/open_charity_theme/bg.png)}</style>
 <div id="header_wrapper">
   <header id="header" class="clearfix open_wrap_show">
     <div class="top_right">

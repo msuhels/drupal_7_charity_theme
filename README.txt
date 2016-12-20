@@ -10,9 +10,6 @@ Support & Customization:
 ------------------------------
 Email: banarsiamin@gmail.com
 Design by:
-------------------------------
-FreeBiezz - www.freebiezz.com
-
-Developed by:
+------------------------------Developed by:
 ------------------------------
 Open Charity- www.ibrinfotech.com

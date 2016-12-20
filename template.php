@@ -16,9 +16,9 @@ function open_charity_theme_html_head_alter(&$head_elements) {
 function open_charity_theme_breadcrumb($variables) {
   $breadcrumb = $variables['breadcrumb'];
   if (!empty($breadcrumb)) {
-    // Use CSS to hide titile .element-invisible.
+    /* Use CSS to hide titile .element-invisible.*/
     $output = '<h2 class="element-invisible">' . t('You are here') . '</h2>';
-    // comment below line to hide current page to breadcrumb
+    /* comment below line to hide current page to breadcrumb*/
 	$breadcrumb[] = drupal_get_title();
     $output .= '<nav class="breadcrumb">' . implode(' » ', $breadcrumb) . '</nav>';
     return $output;
@@ -95,7 +95,7 @@ function open_charity_theme_preprocess_node(&$variables) {
 }
 
 function open_charity_theme_page_alter($page) {
-  // <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+  /*<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>*/
   $viewport = array(
     '#type' => 'html_tag',
     '#tag' => 'meta',
