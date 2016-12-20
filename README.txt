@@ -8,8 +8,8 @@ This theme is compatible with Drupal 7.x.x
 
 Support & Customization:
 ------------------------------
-Email: banarsiamin@gmail.com
+Email: m.suhel11@gmail.com 
 Design by:
-------------------------------Developed by:
+------------------------------Mohammad Suhel ShaikhDeveloped by:
 ------------------------------
 Open Charity- www.ibrinfotech.com
