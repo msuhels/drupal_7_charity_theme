@@ -10,6 +10,7 @@ Support & Customization:
 ------------------------------
 Email: m.suhel11@gmail.com 
 Design by:
-------------------------------Mohammad Suhel ShaikhDeveloped by:
+Mohammad Suhel Shaikh
+------------------------------Developed by:
 ------------------------------
 Open Charity- www.ibrinfotech.com
